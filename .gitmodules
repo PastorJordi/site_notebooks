@@ -1,0 +1,4 @@
+[submodule "htmlfigs"]
+	path = htmlfigs
+	url = https://github.com/PastorJordi/htmlfigs.git
+        ignore = dirty
